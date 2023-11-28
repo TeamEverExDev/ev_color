@@ -68,6 +68,7 @@ class Common {
     0xFFD85645,
     <int, Color>{
       100: Color(0xFFFFFCEE),
+      150: Color(0xFFFFF9DE),
       200: Color(0xFFFFF5CA),
       300: Color(0xFFFFEC99),
       400: Color(0xFFFBE47C),
