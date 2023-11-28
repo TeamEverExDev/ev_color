@@ -83,6 +83,7 @@ class Mora {
     <int, Color>{
       50: Color(0xFFFFFFFF),
       100: Color(0xFFF0FCFC),
+      150: Color(0xFFE5FAFA),
       200: Color(0xFFCDF2F1),
       300: Color(0xFF9CE5E3),
       400: Color(0xFF6AD8D4),
