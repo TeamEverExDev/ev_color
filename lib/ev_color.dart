@@ -18,6 +18,7 @@ class Common {
     <int, Color>{
       50: Color(0xFFFFFFFF),
       100: Color(0xFFF9F9F9),
+      150: Color(0xFFF6F6F6),
       200: Color(0xFFF2F2F2),
       300: Color(0xFFDDDDDD),
       400: Color(0xFFC9C9C9),
@@ -45,6 +46,7 @@ class Common {
     0xFF00B031,
     <int, Color>{
       100: Color(0xFFF2FBF4),
+      150: Color(0xFFE5FAE9),
       200: Color(0xFFC2F0CC),
       300: Color(0xFF86DF9A),
       400: Color(0xFF47C263),
@@ -55,6 +57,7 @@ class Common {
   MaterialColor red = const MaterialColor(
     0xFFD85645,
     <int, Color>{
+      50: Color(0xFFFFF4F2),
       100: Color(0xFFFFEDEB),
       200: Color(0xFFFFC8C2),
       300: Color(0xFFF69D92),
@@ -67,6 +70,7 @@ class Common {
     0xFFD85645,
     <int, Color>{
       100: Color(0xFFFFFCEE),
+      150: Color(0xFFFFF9DE),
       200: Color(0xFFFFF5CA),
       300: Color(0xFFFFEC99),
       400: Color(0xFFFBE47C),
@@ -82,6 +86,7 @@ class Mora {
     <int, Color>{
       50: Color(0xFFFFFFFF),
       100: Color(0xFFF0FCFC),
+      150: Color(0xFFE5FAFA),
       200: Color(0xFFCDF2F1),
       300: Color(0xFF9CE5E3),
       400: Color(0xFF6AD8D4),
@@ -145,6 +150,7 @@ class Dtx {
     <int, Color>{
       50: Color(0xFFFFFFFF),
       100: Color(0xFFECF0F0),
+      150: Color(0xFFE0E8E8),
       200: Color(0xFFBACBCC),
       300: Color(0xFFA1B5B6),
       400: Color(0xFF698989),
