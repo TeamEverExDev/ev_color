@@ -67,7 +67,7 @@ class Common {
   );
 
   MaterialColor yellow = const MaterialColor(
-    0xFFD85645,
+    0xFFF6D860,
     <int, Color>{
       100: Color(0xFFFFFCEE),
       150: Color(0xFFFFF9DE),
