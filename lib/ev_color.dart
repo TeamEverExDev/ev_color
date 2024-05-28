@@ -57,8 +57,8 @@ class Common {
   MaterialColor red = const MaterialColor(
     0xFFD85645,
     <int, Color>{
-      50: Color(0xFFFFF4F2),
-      100: Color(0xFFFFEDEB),
+      100: Color(0xFFFFF4F2),
+      150: Color(0xFFFFEDEB),
       200: Color(0xFFFFC8C2),
       300: Color(0xFFF69D92),
       400: Color(0xFFEB7768),
