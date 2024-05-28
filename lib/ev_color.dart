@@ -199,7 +199,7 @@ class Dtx {
     <int, Color>{
       50: Color(0xFFFFFFFF),
       100: Color(0xFFFAF8F3),
-      200: Color(0xFFFBF6E5),
+      200: Color(0xFFFFF8E0),
       300: Color(0xFFFAF1D0),
       400: Color(0xFFF3E5B2),
       500: Color(0xFFEBD37E),
