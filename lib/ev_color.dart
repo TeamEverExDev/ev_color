@@ -30,17 +30,17 @@ class Common {
     },
   );
 
-  Color painScale0 = const Color(0xFFB5D9A4);
-  Color painScale1 = const Color(0xFFC4E1A6);
-  Color painScale2 = const Color(0xFFD9ECA9);
-  Color painScale3 = const Color(0xFFF2F7AD);
-  Color painScale4 = const Color(0xFFFBF5AC);
-  Color painScale5 = const Color(0xFFF7E8A7);
-  Color painScale6 = const Color(0xFFF2DDA5);
-  Color painScale7 = const Color(0xFFEFD1A0);
-  Color painScale8 = const Color(0xFFEBC1A2);
-  Color painScale9 = const Color(0xFFEAB2A1);
-  Color painScale10 = const Color(0xFFE8A09D);
+  Color painScale0 = const Color(0xFF54C488);
+  Color painScale1 = const Color(0xFF73DB8A);
+  Color painScale2 = const Color(0xFF98E78B);
+  Color painScale3 = const Color(0xFFADE157);
+  Color painScale4 = const Color(0xFFDAE742);
+  Color painScale5 = const Color(0xFFF3EC35);
+  Color painScale6 = const Color(0xFFF9D144);
+  Color painScale7 = const Color(0xFFFFBD3C);
+  Color painScale8 = const Color(0xFFFBA131);
+  Color painScale9 = const Color(0xFFFF7A00);
+  Color painScale10 = const Color(0xFFF15C49);
 
   MaterialColor green = const MaterialColor(
     0xFF00B031,
