@@ -7,6 +7,7 @@ class EvColor {
   static Mora mora = Mora._();
   static Dtx dtx = Dtx._();
   static Vu vu = Vu._();
+  static Xenco xenco = Xenco._();
 }
 
 class Common {
@@ -243,6 +244,26 @@ class Vu {
       700: Color(0xFF347D67),
       800: Color(0xFF1C5141),
       900: Color(0xFF123A2E),
+    },
+  );
+}
+
+class Xenco {
+  Xenco._();
+  MaterialColor green = const MaterialColor(
+    0xFF93E9BE,
+    <int, Color>{
+      50: Color(0xFFFFFFFF),
+      100: Color(0xFFF4FCF4),
+      150: Color(0xFFEFFFEF),
+      200: Color(0xFFE3FEE3),
+      300: Color(0xFFC0F7D9),
+      400: Color(0xFF93E9BE),
+      500: Color(0xFF61DAA2),
+      600: Color(0xFF42C490),
+      700: Color(0xFF07A77C),
+      800: Color(0xFF008F70),
+      900: Color(0xFF007761),
     },
   );
 }
