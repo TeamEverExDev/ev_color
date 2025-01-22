@@ -275,7 +275,7 @@ class Cure {
   Color warmBlack = const Color(0xFF1C0E07);
 
   MaterialColor orange = const MaterialColor(
-    0xFF93E9BE,
+    0xFFFF8800,
     <int, Color>{
       50: Color(0xFFFFF9F3),
       100: Color(0xFFFFF3E0),
@@ -292,7 +292,7 @@ class Cure {
   );
 
   MaterialColor green = const MaterialColor(
-    0xFF93E9BE,
+    0xFF089675,
     <int, Color>{
       50: Color(0xFFF0FAF8),
       100: Color(0xFFE0F2EE),
@@ -309,7 +309,7 @@ class Cure {
   );
 
   MaterialColor blue = const MaterialColor(
-    0xFF93E9BE,
+    0xFF2182EA,
     <int, Color>{
       50: Color(0xFFF3F9FF),
       100: Color(0xFFE3F1FE),
@@ -326,7 +326,7 @@ class Cure {
   );
 
   MaterialColor gray = const MaterialColor(
-    0xFF93E9BE,
+    0xFF78716C,
     <int, Color>{
       50: Color(0xFFFAFAF9),
       100: Color(0xFFF5F5F4),
