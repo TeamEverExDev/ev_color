@@ -272,7 +272,7 @@ class Xenco {
 class Cure {
   Cure._();
 
-  Color warmBlack = const Color(0xFF1C0E07);
+  Color warmBlack = const Color(0xFF342D2B);
 
   MaterialColor orange = const MaterialColor(
     0xFFFF8800,
